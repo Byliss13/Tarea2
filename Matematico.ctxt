@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Matematico
+comment0.text=\r\n\ La\ clase\ matematico\ es\ la\ segunda\ tarea.\r\n\ \r\n\ @author\ (Lisandro\ Vargas\ Mu\u00F1oz\ )\ \r\n\ @version\ (22/04/2021)\r\n
+comment1.params=nombre
+comment1.target=Matematico(java.lang.String)
+comment1.text=\r\n\ Constructor\ para\ asignar\ el\ nombre\r\n
+comment2.params=a\ b\ c
+comment2.target=java.lang.String\ NumeroMayMedMen(int,\ int,\ int)
+comment2.text=\r\n\ este\ metodo\ escoge\ el\ mayor\ de\ 3\ numeros\r\n\ el\ mediano\r\n\ Y\ el\ menor\r\n
+comment3.params=b\ a
+comment3.target=double\ calcularArea(int,\ int)
+comment3.text=\r\n\ este\ metodo\ calcula\ area\ de\ un\ rectangulo\r\n
+comment4.params=x\ y\ i\ j
+comment4.target=double\ distanciaDosPuntos(int,\ int,\ int,\ int)
+comment4.text=\r\n\ este\ metodo\ calcula\ la\ distancia\ entre\ 2\ puntos\r\n
+comment5.params=x\ y
+comment5.target=java.lang.String\ cuadrante(int,\ int)
+comment5.text=\r\n\ este\ metodo\ muestra\ el\ lugar\ en\ el\ que\ esta\ \r\n\ ubicado\ un\ punto\ en\ un\ plano\ cartesiano\r\n
+numComments=6
